@@ -24,3 +24,5 @@ streamlit run app.py
 ## Demo
 
 Próximamente en Streamlit Cloud.
+
+[![CI](https://github.com/LexLuthorPrimero/Hacker-News-Trends-Dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/LexLuthorPrimero/Hacker-News-Trends-Dashboard/actions/workflows/ci.yml)
