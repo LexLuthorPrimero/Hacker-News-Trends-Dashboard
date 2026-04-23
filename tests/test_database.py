@@ -1,3 +1,7 @@
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import pytest
 import sqlite3
 from database import init_db, insert_stories, get_all_stories, get_latest_fetch_time
